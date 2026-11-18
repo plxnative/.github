@@ -24,4 +24,9 @@ decoder, 4K HEVC and Dolby Vision included. No Chromium, no JavaScript, no web v
 - **A security problem:** report it privately, as the
   [security policy](https://github.com/plxnative/plx-native/security/policy) describes.
 
+## Support
+
+PlxNative is free and built by one person in their spare time. If it makes your TV better, you can
+[buy me a coffee on Ko-fi](https://ko-fi.com/0xbeb) or [sponsor me on GitHub](https://github.com/sponsors/GLinnik21).
+
 <sub>PlxNative is an independent project and is not affiliated with Plex, Inc. or LG.</sub>
