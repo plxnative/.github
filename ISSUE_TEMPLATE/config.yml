@@ -1,0 +1,10 @@
+# The default for every repository of the organization that has no ISSUE_TEMPLATE folder of its own
+# (today the HUD registry; plx-native has its own). Problems with the app itself belong in plx-native.
+blank_issues_enabled: true
+contact_links:
+  - name: A problem with the PlxNative app
+    url: https://github.com/plxnative/plx-native/issues/new/choose
+    about: Bugs in the app, its install or a nightly build are tracked in plx-native, not here.
+  - name: A question or an idea
+    url: https://github.com/plxnative/plx-native/discussions
+    about: Setup help, feature ideas and "it works on my TV" reports live in plx-native's Discussions.
